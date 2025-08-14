@@ -53,5 +53,3 @@ Script em Python que lê até 3 contatos do banco de dados **Supabase** e envia 
 * Se usar chave `anon` no Supabase, garanta que a tabela tenha permissões de leitura configuradas.
 
 ---
-
-Com isso, seu código estará pronto para rodar diretamente no PyCharm, sem precisar de terminal externo.
